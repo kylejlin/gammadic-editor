@@ -1,1 +1,1 @@
-module.exports = [{ host: "localhost:3000", httpsRequired: false }];
+module.exports = [{ host: "localhost", httpsRequired: false }];

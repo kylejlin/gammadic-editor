@@ -1,1 +1,3 @@
-export default "__SECRET_PLACEHOLDER__";
+export default document
+  .getElementsByName("gammadic-server-secret")[0]
+  .getAttribute("content");
