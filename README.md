@@ -20,7 +20,9 @@ Then
 
 ### Stopping the container
 
-To stop, run
+To stop, do the following:
+
+First, run
 
 ```bash
 docker container ls
